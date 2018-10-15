@@ -1,3 +1,6 @@
 sorting 20gb file with one word on each line: 
 
 divided filed into different parts and sort each one seperately. then combine them
+
+computting order of operations: 
+have a result variable that gets modified and have a processing array that modifies higher order operations before adding it to the result 
