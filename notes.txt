@@ -6,3 +6,17 @@ computting order of operations:
 have a result variable that gets modified and have a processing array that modifies higher order operations before adding it to the result 
 
 worked on a coding challenge
+
+Server side rendering vs client side rendering steps 
+
+SSR: 
+1. Server sends ready to be rendered HTML Response to browser 
+2. Broswer renders the page, Now vieable and broswer downloads JS 
+3. Broswer executes react 
+4. Page now Interactable 
+
+CSR: 
+1. Server sending response to browser 
+2. Broswer downloads JS 
+3. Broswer executes react 
+4. Page now viewable and Interactable 
