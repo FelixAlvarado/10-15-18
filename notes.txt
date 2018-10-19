@@ -24,3 +24,5 @@ CSR:
 compile-time vs run-time 
 
 compile time is the instance where the code you enter is converted to executable while run-time is the instance where the executable is running 
+
+studied js trivia and es5 vs es 6
